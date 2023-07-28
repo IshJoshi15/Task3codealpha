@@ -1,0 +1,15 @@
+#resume-form{
+    /*display: none;*/
+}
+#resume-tamplate{
+    display: none;
+}
+.myimg{
+    border: 1px solid white;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+}
+.background{
+    background: aquamarine;
+}
